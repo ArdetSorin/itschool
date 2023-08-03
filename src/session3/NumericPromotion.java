@@ -5,7 +5,7 @@ public class NumericPromotion {
     //line comment
 
     /*
-    *block comment
+     *block comment
      */
 
     public static void main(String[] args) {
