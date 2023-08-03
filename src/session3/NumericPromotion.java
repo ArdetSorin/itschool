@@ -2,6 +2,12 @@ package session3;
 
 public class NumericPromotion {
 
+    //line comment
+
+    /*
+    *block comment
+     */
+
     public static void main(String[] args) {
         short a = 3;
         short b = 6;
