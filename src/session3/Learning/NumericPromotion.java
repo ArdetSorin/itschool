@@ -1,6 +1,12 @@
-package session3;
+package session3.Learning;
 
 public class NumericPromotion {
+
+    //line comment
+
+    /*
+     *block comment
+     */
 
     public static void main(String[] args) {
         short a = 3;
