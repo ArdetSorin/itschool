@@ -34,3 +34,4 @@ VS Code
 
 **/src/main/resources/application-local.properties
 /out/
+/out/production/
