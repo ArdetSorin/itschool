@@ -1,4 +1,4 @@
-package session17.learning;
+package session17.practice;
 
 public class Product {
 
